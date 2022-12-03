@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo][def]
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -250,3 +250,6 @@ throw new Error('hubo un error, se termina la ejecución');
 JS tiene la particularidad qué en donde sea que el intérprete espera un *statement*, nosotros podemos pasarle una *expresión*. Esto da lugar a los llamados *expression statements*.
 
 > **Esto no funciona en sentido inverso, donde se espera una expresión *NO* podemos pasar una statement**.
+
+
+[def]: https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png
