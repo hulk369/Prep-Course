@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![HenryLogo][def]
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -296,3 +296,5 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
 ---
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01a-primeros-pasos*** de Slack
+
+[def]: https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png
